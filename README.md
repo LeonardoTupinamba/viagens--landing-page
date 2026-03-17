@@ -17,3 +17,12 @@ Funcionalidades
 - Advice → Dicas práticas de viagem.
 - Efeito hover nos links de navegação para melhorar a experiência do usuário.
 - Estrutura semântica utilizando <nav>, <main>, <section>, <footer>.
+
+Tecnologias Utilizadas
+
+- HTML5 → Estrutura semântica da página.
+- CSS3 → Estilização, efeitos de hover e responsividade básica.
+
+Autor
+
+Projeto desenvolvido por Leonardo Tupinambá como parte de um desafio de criação de landing page.
